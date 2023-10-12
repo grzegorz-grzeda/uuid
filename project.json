@@ -1,0 +1,6 @@
+{
+    "name": "uuid",
+    "libraries": [
+        "atomic-tests"
+    ]
+}
